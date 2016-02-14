@@ -11,7 +11,7 @@ An implementation of an RFC 7168 compliant server via PHP.
   ```shell
   git clone https://github.com/EtherTyper/teapot.git # Get the code
   cd teapot # Open the code
-  php -S localhost:8768 # Initialize the server at port TPOT
+  php -w -S localhost:8768 >> php.log & # Initialize the server at port TPOT
   ```
   3. Open a browser, e.g. Chrome to one of the following:
     - <localhost:8768/>
