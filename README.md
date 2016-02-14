@@ -1,3 +1,4 @@
+[![](teapot.jpg)](README.md)
 # teapot
 An implementation of an RFC 7168 compliant server via PHP.
 
